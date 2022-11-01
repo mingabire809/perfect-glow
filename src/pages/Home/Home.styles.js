@@ -181,6 +181,6 @@ margin-right: auto;
 
 export const Input = styled.input`
 border-color: transparent;
-width: 300px;
+width: 55%;
 font-size: large;
 `;
