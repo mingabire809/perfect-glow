@@ -4,6 +4,8 @@ export const Wrapper = styled.div`
     width: 100%;
     height: 125px;
     background-color: rgba(145,41,140,255);
+    top: 0;
+    position: sticky;
 `;
 
 export const Content = styled.div`
